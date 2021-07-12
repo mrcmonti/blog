@@ -1,0 +1,13 @@
+body{
+    background-color: #eceff1;
+}
+
+#formulario-pergunta{
+    margin-top: 5vh;
+}
+
+.header h1{
+    display: inline;
+    vertical-align: top;
+    padding: 10px;
+}
