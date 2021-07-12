@@ -12,6 +12,7 @@ const Article = require("./articles/Article");
 const Category = require("./categories/Category");
 const User = require("./user/User");
 
+
 //EJS
 app.set('view engine','ejs');
 app.use(express.static('public'));
